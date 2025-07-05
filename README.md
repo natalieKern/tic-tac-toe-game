@@ -14,8 +14,10 @@ A classic Tic Tac Toe game built with **React**, **TypeScript**, and **Vite**. T
 
 ---
 ## 📸 Screenshots
-Invalid move toast:
+### Invalid move toast:
+
 ![image](https://github.com/user-attachments/assets/339d638d-054c-496c-bcfd-8a32aed75ea9)
 
-X is the winner:
+### X is the winner:
+
 ![image](https://github.com/user-attachments/assets/0675c5bf-0a5c-4cc8-ae21-dda778c406a4)
